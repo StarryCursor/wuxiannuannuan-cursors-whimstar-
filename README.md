@@ -3,8 +3,7 @@
 
 
 ## 预览 / Preview
-<img width="1168" height="1225" alt="preview" src="https://github.com/user-attachments/assets/64b581f0-2f29-4ac0-9e02-2ae898a01a48" />
-
+<img width="1168" height="1225" alt="preview" src="https://github.com/user-attachments/assets/3460e8eb-1506-41f9-b2e8-6c1377795a95" />
 
 ## 项目内容 / Project Overview
 以在《无限暖暖》中的奇想星的形象和元素为原型，由StarryCursor设计并制作，包含23种鼠标状态。
